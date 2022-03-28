@@ -11,7 +11,6 @@
   inputs.src-nwsync-0_1_2.ref   = "refs/tags/0.1.2";
   inputs.src-nwsync-0_1_2.owner = "Beamdog";
   inputs.src-nwsync-0_1_2.repo  = "nwsync";
-  inputs.src-nwsync-0_1_2.dir   = "";
   inputs.src-nwsync-0_1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -11,7 +11,6 @@
   inputs.src-nwsync-master.ref   = "refs/heads/master";
   inputs.src-nwsync-master.owner = "Beamdog";
   inputs.src-nwsync-master.repo  = "nwsync";
-  inputs.src-nwsync-master.dir   = "";
   inputs.src-nwsync-master.type  = "github";
   
   inputs."neverwinter".owner = "nim-nix-pkgs";
