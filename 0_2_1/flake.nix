@@ -11,6 +11,7 @@
   inputs.src-nwsync-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-nwsync-0_2_1.owner = "Beamdog";
   inputs.src-nwsync-0_2_1.repo  = "nwsync";
+  inputs.src-nwsync-0_2_1.dir   = "";
   inputs.src-nwsync-0_2_1.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
