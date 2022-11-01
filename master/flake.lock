@@ -92,11 +92,11 @@
       },
       "locked": {
         "dir": "1_5_7",
-        "lastModified": 1667331117,
-        "narHash": "sha256-42d28ojNJUV1EKJBVFqkwC3cwZ+NBIUNuoW+yG8DL+8=",
+        "lastModified": 1667335897,
+        "narHash": "sha256-q5PgsZq6qZdXO0KT2BiT9rnVx3Az3i7zAHzvxSZUdTw=",
         "owner": "nim-nix-pkgs",
         "repo": "neverwinter",
-        "rev": "527780867d7bfcc77989c2a0292fce121f5f02b2",
+        "rev": "d074be8a8134dbf5487c4df3c56a656bc3c22429",
         "type": "github"
       },
       "original": {
@@ -136,11 +136,11 @@
       },
       "locked": {
         "dir": "v0_20_0",
-        "lastModified": 1667330960,
-        "narHash": "sha256-6FmNB8FaiOUwwfiEspthGbwLe5Q301sLA669lnzsfKI=",
+        "lastModified": 1667335781,
+        "narHash": "sha256-F8+HTS8qk2sDQwmKqYNgKm4Gni9s1EbKe3UffFT947U=",
         "owner": "nim-nix-pkgs",
         "repo": "regex",
-        "rev": "84280d24caae63ba4a4c825983d608c50d8cf50b",
+        "rev": "c06767a0305e62be5ba93aada337c59aaf888ed8",
         "type": "github"
       },
       "original": {
